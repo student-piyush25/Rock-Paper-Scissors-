@@ -1,3 +1,4 @@
+HEAD
 # Rock Paper Scissors 🎮  
 A simple Rock, Paper, Scissors game built with Python and Tkinter.  
 
@@ -17,3 +18,7 @@ A simple Rock, Paper, Scissors game built with Python and Tkinter.
 
 ## Author  
 **Piyush** 🚀  
+
+# Rock-Paper-Scissors-
+A fun Rock Paper Scissors game built with Python &amp; Tkinter.  Play against the computer, enjoy animations, and track scores!
+672cb39bdd48b7fccc6c5071ec71fecb96540781
